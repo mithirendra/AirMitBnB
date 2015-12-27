@@ -17,6 +17,8 @@ gem 'devise'
 
 gem 'toastr-rails'
 
+gem 'figaro'
+
 group :development, :test do
   gem 'byebug'
 end
